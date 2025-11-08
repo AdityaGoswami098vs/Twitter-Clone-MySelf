@@ -1,0 +1,2 @@
+I created this entire clone MySelf, and now I'm fully 200% confident to move to pure JS, I still can't belive I created this clone without anyone helps, sure I take of AI in JS, but all code in HTML and mostly in CSS I did it MySelf, and even wrote some code in JS on my own. with that being said, my next step is towards JS Projects cause I already know JS concepts so jumping into Projects make more sense.
+another step foreward to CodeNinja
